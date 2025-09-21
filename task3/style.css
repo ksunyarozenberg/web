@@ -46,6 +46,7 @@ background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.705)), url(Image-3
     gap: 16px;
     background-size: cover;
     background-position: center;
+    transition: 0.5s;
 }
 
 h3{
