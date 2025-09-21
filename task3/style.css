@@ -57,6 +57,12 @@ h3{
 h4{
     font-size: 12px;
     text-transform: capitalize;
+    opacity: 0.6;
+    font-weight: normal;
+}
+
+.card:hover{
+    transform: scale(110%);
 }
 
 a{
